@@ -1,6 +1,6 @@
 # Java Assignment 1 & 2
 
-## Assignment 1
+## Assignment 1 - SimonMCalc.java
 ### Make a Calculator App
 #### Requirements
 1. Should handle addition, subtraction, multiplication & division
@@ -19,7 +19,7 @@
 
 ---
 
-## Assignment 2
+## Assignment 2 - SimonM_Uppgift2.java
 Med hjälp av koden nedanför skall du skriva en metod som heter searchWeapo, denna metod ska ta in ett parameter argument som motsvarar vapnet man vill söka på. I metoden skall du med hjälp av en Switch sats ta reda på vem som bär vilket vapen.
 
 Om inget vapen hittas så skall ett default meddelande skrivas ut.
